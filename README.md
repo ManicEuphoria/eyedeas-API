@@ -1,4 +1,5 @@
 # README
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
